@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-piel-me-llama/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Tu piel me llama](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-piel-me-llama/) |
+| **Get License** | [Secure Licensing Rights for Tu piel me llama](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-piel-me-llama/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/3505)
 
 ---
 
