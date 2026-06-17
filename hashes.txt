@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Tu piel me llama
+
+This log tracks the cryptographic history and versioning for the song **Tu piel me llama** (tu-piel-me-llama).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-17T16:22:23.515128 | `v1` | `c7809153ea20bd9018c8e9e6a48be6731880c0ece64b740cd4369ebd74462345` | `df0df60a413cc0117e018ebf3e0bcb6073df0987ff96cca5cce4f30c67199ec4` | `2026-06-17_tu-piel-me-llama-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
